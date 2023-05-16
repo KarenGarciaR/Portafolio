@@ -10,7 +10,7 @@
 El propósito de esta página web es mostrar el portafolio de proyectos de un(a) desarrollador(a) y su experiencia. Incluye una descripción breve de su motivación, experiencia, proyectos, artículos publicados y formas de contacto. 
 
 ## 🔗LINK AL DEMO
-Aqui puedes ver la visualizacion de mi portafiolio [Portafiolio] 
+Aqui puedes ver la visualizacion de mi portafiolio [Portafiolio] https://karengarciar.github.io/Portafolio/
 
  
  <img width="958" alt="Portafolio" src="https://github.com/KarenGarciaR/KarenGarciaR.github.io/assets/132194554/d7ef976a-172f-4848-bc24-77cfcc8b50ab">
